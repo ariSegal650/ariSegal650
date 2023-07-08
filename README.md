@@ -12,11 +12,11 @@ Hello 👋, I'm ari segal, a passionate full stack developer with expertise in A
 - C#
 - Angular
 - TypeScript
-- PrimeNG
+- SQL
 - Python
 - C
+- PrimeNG
 - HTML/CSS
-- SQL
 - Git
 - RESTful APIs
 - OAuth
