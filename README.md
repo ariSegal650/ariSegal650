@@ -37,7 +37,7 @@ Hello 👋, I'm Ari Segal, a passionate full stack developer with expertise in A
 
   - AWS Deployment: The application was deployed on Amazon Web Services (AWS) for scalability, high availability, and reliable performance.
 
-  - Docker Integration: i also experiemented using docker to enabling easy deployment and replication of the application across different environments.
+  - Docker Integration: I also experiemented using docker to enabling easy deployment and replication of the application across different environments.
 - Repository: (https://github.com/ariSegal650/resume_project)
 - Live Demo: (https://resumeapp.fly.dev/)
 
