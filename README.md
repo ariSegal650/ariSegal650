@@ -8,7 +8,7 @@ Hello 👋, I'm ari segal, a passionate full stack developer with expertise in A
 
 ## Skills
 
-- .NET Framework
+- .NET Core
 - C#
 - Angular
 - TypeScript
@@ -72,7 +72,7 @@ Hello 👋, I'm ari segal, a passionate full stack developer with expertise in A
 
 - Technologies:
   - Front-end: Angular
-  - Back-end: .NET Framework
+  - Back-end: .NET 
   - Database: MySql
 
 - Repository: (https://github.com/ariSegal650/kolell_project)
