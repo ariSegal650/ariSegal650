@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hello 👋, I'm ari segal, a passionate full stack developer with expertise in Angular, .NET. I have a strong foundation in web development, backend programming, and database management. With a focus on creating efficient, scalable, and user-friendly applications, I strive to deliver high-quality solutions.
+Hello 👋, I'm Ari Segal, a passionate full stack developer with expertise in Angular, .NET and more. I have a strong foundation in web development, backend programming, and database management. With a focus on creating efficient, scalable, and user-friendly applications, I strive to deliver high-quality solutions.
 
 
 ## Skills
