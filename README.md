@@ -15,7 +15,7 @@ Hello 👋, I'm ari segal, a passionate full stack developer with expertise in A
 - SQL
 - Python
 - C
-- PrimeNG
+- Object-Oriented Programming (OOP)
 - HTML/CSS
 - Git
 - RESTful APIs
